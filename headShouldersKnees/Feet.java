@@ -3,10 +3,8 @@ package headShouldersKnees;
 public class Feet {
 
 	public void baconFootball() {
-		System.out.println("----------------");
-		
-		System.out.println("#5 Converting Centimeters into Feet");
-		System.out.println();
+		System.out.println("----------------"
+				+ "\n#5 Converting Centimeters into Feet\n");
 		
 		int cm;
 		double feet;

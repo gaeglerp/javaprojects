@@ -1,12 +1,10 @@
 package blueNoWaitYellow;
-public class BiscuitsToBoot {
 
+public class BiscuitsToBoot {
 	
 	public void intoTheBin() {
-		System.out.println("----------------");
-
-		System.out.println("#3 Converting gallons into liters");
-		System.out.println();
+		System.out.println("----------------"
+				+ "\n#3 Converting gallons into liters\n");
 		
 		double gallons;
 		double liters;
@@ -24,5 +22,7 @@ public class BiscuitsToBoot {
 				" liters");}
 		
 		System.out.println("----------------");
+		
 	}
+	
 }

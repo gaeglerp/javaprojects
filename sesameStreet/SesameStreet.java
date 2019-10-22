@@ -2,10 +2,8 @@ package sesameStreet;
 public class SesameStreet {
 	
 	public void oneHaHaHa() {
-		System.out.println("----------------");
-		
-		System.out.println("#4 Counting with the Count!");
-		System.out.println();
+		System.out.println("----------------"
+				+ "\n#4 Counting with the Count!\n");
 		
 		int count;
 		
